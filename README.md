@@ -1,6 +1,15 @@
 # Open Bike Light - firmware for ATtiny13A
 
-Firmware for the cycling club tail light, hardware schematic revision `circuit2`.
+<p align="center">
+  <img src="media/onabike2.jpg" width="60%" alt="Final device, on a bike">
+</p>
+
+Firmware for the cycling club tail light, hardware schematic revision 1:
+
+<p align="center">
+  <a href="circuit/schematic_v1.pdf"><img src="media/circuit2.jpg" width="60%" alt="Schematic"></a>
+</p>
+
 This document has two parts:
 
 1. **User manual** - how to use the light.
