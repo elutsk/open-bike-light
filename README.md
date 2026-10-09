@@ -1,13 +1,13 @@
-# Open Bike Light — ATtiny13A, 996 bytes of flash, free to use and modify
+# Open Bike Light — ATtiny13A, 5 modes rear light
 
 <p align="center">
-  <img src="media/onabike2.jpg" width="90%" alt="Final device, on a bike">
+  <img src="media/onabike2.jpg" width="100%" alt="Final device, on a bike">
 </p>
 
 Firmware for the cycling club tail light, hardware schematic revision 1:
 
 <p align="center">
-  <a href="circuit/schematic_v1.pdf"><img src="media/circuit2.jpg" width="90%" alt="Schematic"></a>
+  <a href="circuit/schematic_v1.pdf"><img src="media/circuit2.jpg" width="100%" alt="Schematic"></a>
 </p>
 
 This document has two parts:
